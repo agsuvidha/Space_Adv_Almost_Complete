@@ -3,7 +3,7 @@ var edges,flag="closed";
 var wall1,wall2,wall3,wall4,wall5,wall6,wall7,wall8,wall9,wall10,wall11,wall12;
 var engine,battery,tools,engineImg,batteryImg,toolImg,gunsImg,workShop,dockInstructionImg;
 var count=0;
-var gameState="level3";
+var gameState="level1";
 var ship,landing,bg,img;
 var floorImg
 var life=0;
